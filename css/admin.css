@@ -1,0 +1,15 @@
+.toplevel_page_iframeconsentsettings .defaultImage{
+	display:inline-block;
+	width:45%;
+	vertical-align:top;
+}
+
+.toplevel_page_iframeconsentsettings .defaultImageButtons{
+	display:inline-block;
+	width:45%;
+	vertical-align:top;
+}
+
+.toplevel_page_iframeconsentsettings textarea{
+	width:100%;
+}
